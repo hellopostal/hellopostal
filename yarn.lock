@@ -4766,9 +4766,9 @@ node-status-codes@^1.0.0:
   version "1.0.0"
   resolved "https://registry.yarnpkg.com/node-status-codes/-/node-status-codes-1.0.0.tgz#5ae5541d024645d32a58fcddc9ceecea7ae3ac2f"
 
-nodemailer@^4.4.0:
-  version "4.4.0"
-  resolved "https://registry.yarnpkg.com/nodemailer/-/nodemailer-4.4.0.tgz#571989e524a906fb83b1518f3e4c0d3140db24af"
+nodemailer@^6.4.16:
+  version "6.4.16"
+  resolved "https://registry.yarnpkg.com/nodemailer/-/nodemailer-6.4.16.tgz#5cb6391b1d79ab7eff32d6f9f48366b5a7117293"
 
 nopt@^4.0.1:
   version "4.0.1"
